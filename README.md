@@ -1,4 +1,4 @@
-# 🚀 Machine Learning con scikit-learn
+#  Machine Learning con scikit-learn
 
 > Guía práctica de aprendizaje en Machine Learning
 
@@ -9,7 +9,7 @@
 
 
 
-## 📚 Descripción
+## Descripción
 
 Repositorio con mis aprendizajes prácticos de **Machine Learning** utilizando **scikit-learn**. Cada tema incluye:
 - 📓 Notebooks interactivos (Jupyter)
@@ -18,7 +18,7 @@ Repositorio con mis aprendizajes prácticos de **Machine Learning** utilizando *
 
 
 
-## 📖 Temas Estudiados
+## Temas Estudiados
 
 | # | Tema | Notebook | Documento | Dataset |
 |---|------|----------|-----------|---------|
@@ -27,7 +27,7 @@ Repositorio con mis aprendizajes prácticos de **Machine Learning** utilizando *
 
 
 
-## 🔧 Instalación
+##  Instalación
 
 ### 1. Clonar el repositorio
 ```bash
